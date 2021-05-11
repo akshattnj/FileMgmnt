@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy bypass -file "./dependencies/power.ps1"
